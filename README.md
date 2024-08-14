@@ -1,6 +1,13 @@
 # A chatbot that interprets natural language input, converts it into SQL queries, executes those queries, and presents the results.
 A Natural Language to SQL (NL2SQL) converter is a powerful tool that significantly enhances data interaction by making it more accessible and efficient. It allows non-technical users to query databases using natural language, leading to increased efficiency, productivity, error reduction, and enhanced data exploration.
 This project provides a comprehensive introduction to using the Llama 3 70B model within the realm of generative AI, demonstrating its application in converting natural language into  SQL queries(MYSQL database).
+Please refer to the YouTube video below for a demonstration.For this demonstration i have used sample database from [Sample Mysql database](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
+
+
+<a href="https://youtu.be/NYlC8PhgFUA">
+    <img src="https://img.youtube.com/vi/NYlC8PhgFUA/maxresdefault.jpg" alt="Watch the video" width="400"/>
+</a>
+
 
 ## Table of Contents
 
